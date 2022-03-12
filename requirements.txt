@@ -5,8 +5,6 @@ librosa
 matplotlib
 pillow
 pyaudio
-math
-os
 logging
 wave
 pylab
