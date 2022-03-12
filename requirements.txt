@@ -5,6 +5,4 @@ librosa
 matplotlib
 pillow
 pyaudio
-wave
-pylab
 scipy
