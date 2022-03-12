@@ -1,6 +1,6 @@
 torch
 torchaudio
-numpy==1.2
+numpy==1.22.3
 librosa
 matplotlib
 pillow
