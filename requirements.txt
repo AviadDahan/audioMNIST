@@ -8,3 +8,4 @@ pyaudio
 scipy
 numba
 soundfile
+PyYAML
