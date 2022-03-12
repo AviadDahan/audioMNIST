@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from settings import IMAGE_DIR, DURATION, WAVE_OUTPUT_FILE
 from src.sound import sound
-from src.model import CNN
+# from src.model import CNN
 from src.model2 import Lenet5, audioMNIST
 from setup_logging import setup_logging
 import torch
